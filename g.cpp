@@ -1,12 +1,12 @@
 
 #include <iostream>
 
-  using namespace std
+  using namespace std;
 
   main()
   {
 
-cout << "WELCOME LUK\n";
+cout << "WELCOME LUCKY LUK\n    YOU THE THE BEST...THE ONE";
 
 return 0;
 
